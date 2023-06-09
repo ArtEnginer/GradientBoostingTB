@@ -1,0 +1,66 @@
+Saya Jelasin untuk input test size input tersebut untuk melakukan
+pembagian data jadi rangenya 0-100 % jika input test size yang
+diinputkan adalah 40 maka dataset akan dibagi menjdata adi
+40% data testing dan 60% adalah untuk training (MONGGO LANJUT DULU
+MAS)
+
+siap mas
+
+preprocessing ini convert data ke numeric ya?
+
+sebenernya bukan cuma convert data ke numeric itu udah di clean juga mas
+
+mantap
+
+file prediction ada tambahan 1 column mas namanya column predicted
+
+okay, boleh mas
+
+lanjut ke script mas, mungkin pertanyaanku bisa jadi ke 
+multi-class confussion matrix gak ya? 
+atau cukup pake confussion matrix aja?
+
+multi class confution matrix yang kek gimana sih yah ??
+
+target pada data kan binner classicficaiton mas jadi cuma kaya 4 
+colom tok
+
+kecuali targetnya lebih dari 2 tah bisa jadi multi
+
+oke siap, soalnya di pemahamanku itu multi-class lebih rinci
+jika memang biner dan memang benar target cuma 1 yaitu lama pengobatan pasien
+maka benar pake confussion matrix
+
+lanjut ke scriptnya mas
+
+
+# INI yang tadi notebooknya aja
+#monggo mas bungkus
+# ini udah ??
+#saat ini sih cukup ya, mungkin nanti apabila ada perubahan saya kontak mas angga lagi
+# oke mas ini saya upload dulu ke github saya mas maaf kalo agak lama
+# sikat mas, tapi saya minta notepad sama note note yang ada hashtag ini kirim ke saya ya mas
+# oke mas
+#oke aku left yaa, terima kasih mas anagga
+# oke mas, terima kasih juga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
